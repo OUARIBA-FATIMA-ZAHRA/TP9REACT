@@ -1,5 +1,4 @@
 import { Helmet } from "react-helmet-async";
-import { cn } from "@/lib/utils";
 console.log("Alias fonctionne!");
 
 export default function Home() {
